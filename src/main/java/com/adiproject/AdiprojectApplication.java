@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AdiprojectApplication {
 
 	public static void main(String[] args) {
-int x=100;
+    int a=10+20;
 		SpringApplication.run(AdiprojectApplication.class, args);
 	}
 
